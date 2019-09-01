@@ -10,13 +10,13 @@ export default function Cards(props) {
                 <div class="card-body">
                   <h5 class="card-title">{name}</h5>
                   <p class="card-text">
-                    price: {price} discount: {discount}
+                    <b>price:</b> Rs {price} discount: {discount}
                   </p>
                   <p>delivery:{stdDel}</p>
                   <p>Express delivery: {expDel}</p>
-                  <a href="#" class="btn btn-primary">
+                  <button href="#" class="bn">
                     Add to cart
-                  </a>
+                  </button>
                 </div>
               </div>
             </div>
