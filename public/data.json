@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Onion",
+        "discount" : "20%",
+        "price" : "13",
+        "standard delivery" : "Tomorrow evening",
+        "express delivery" : "Out of stock",
+        "img": "https://electronicvendor.in/wp-content/uploads/2019/04/ladies-finger-1kg.png"
+    },
+    {
+        "id": 2,
+        "name": "Tomato",
+        "discount" : "15%",
+        "price" : "23",
+        "standard delivery" : "Tomorrow evening",
+        "express delivery" : "Out of stock",
+        "img": "https://justisafourletterword.com/wp-content/uploads/2007/09/Tomato-Pie-Recipe.png"
+    },
+    {
+        "id": 3,
+        "name": "Potato",
+        "discount" : "20%",
+        "price" : "13",
+        "standard delivery" : "Tomorrow evening",
+        "express delivery" : "Out of stock",
+        "img" : "https://justisafourletterword.com/wp-content/uploads/2007/09/Tomato-Pie-Recipe.png"
+    },
+    {
+        "id": 4,
+        "name": "Ladies finger",
+        "discount" : "18%",
+        "price" : "10",
+        "standard delivery" : "Tomorrow evening",
+        "express delivery" : "Out of stock",
+        "img" : "https://electronicvendor.in/wp-content/uploads/2019/04/ladies-finger-1kg.png"
+    }
+]
